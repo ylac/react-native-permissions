@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-d191d8aa4a313f73ed13456dcf50280ab71c20f7.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-ac6fb5368123ea795d1e187d8aa44e83cf523cb0.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-6095eb52273bc8efe174345b1ba41ccdb3964f85.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-8f4c5c34c1c63ee4c791a6ace39cb066604e9165.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-afdbe99e373727978b61719a29971d7873489404.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-2354871777c46e0babf013243d801b25f5ab0c9b.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-8e8817460d15ef959fba43107d481c12fd6c28e7.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-47a70257d34eee7e7afeec84bab7a99fe8fb9574.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-e49d296845da5c0321ff99924b76e1138d23eb55.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-0699400a401f09c34ff228db122e5f59925301e0.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-400fd55cb65f1593bdb6c0f1cf745dd24bf55445.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-1f5b0d9c5d65f01fff73833526cf6a2b712f1b82.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-aab357719b923580036eddd044bea5fd4c7c953f.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-a752812fde24ba53558bd1521f77092774b9daaf.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-7c169369a1e207206bc872099f65667551919837.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-cfad031e4a75ce8d33db4fe9a297a29a30538bdc.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/Example/react-native-permissions/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f6037d0575e83e59078e5c6b8a8b4d73592d3de">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-835d8886cad6c404b94b6c0eadbb20f2a96fa608.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-2b4346f288bf8e153eb9a8c303e3db4dd985b9dc.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-0886fabbe254fe6063369a5aca99e74eed66fb63.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-fecd6e8a78b9e43d1bba1a6b421daa90af938901.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-8981498d22d86db7d7b27af9859aa2594edbd5bd.jar" />
+    </item>
+    <item
+        jar="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="/Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/pre-dexed/debug/classes-3e90e6b1c3c0e733edc3c1f17421e9d3ae51b81a.jar" />
+    </item>
+
+</items>

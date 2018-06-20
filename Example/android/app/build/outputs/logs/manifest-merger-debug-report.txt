@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:12:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:13:22-69
+uses-sdk
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:15:5-17:41
+MERGED from [Example:react-native-permissions:unspecified] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/Example/react-native-permissions/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:17:9-38
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:16:9-35
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:19:5-35:19
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:react-native:0.30.0] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/Yonah/development/react/react-native-permissions/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:22:7-39
+	android:allowBackup
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:21:7-33
+	android:icon
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:23:7-41
+	android:theme
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:24:7-38
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:20:7-38
+activity#com.example.MainActivity
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:25:7-33:18
+	android:label
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:27:9-41
+	android:configChanges
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:28:9-79
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:26:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:29:9-32:25
+action#android.intent.action.MAIN
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:31:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:34:7-84
+	android:name
+		ADDED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:34:17-81
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:1:1-37:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Yonah/development/react/react-native-permissions/Example/android/app/src/main/AndroidManifest.xml:1:1-37:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
